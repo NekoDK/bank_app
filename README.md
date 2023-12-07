@@ -1,12 +1,6 @@
 # bank_app
 
 A new Flutter project.
-Screenshot:
-
-<img src="assets/scr1.PNG" height="400">                            <img src="assets/scr2.PNG" height="400">
-
-
-
 
 ## Getting Started
 
