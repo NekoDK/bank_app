@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Screenshot:
+Screenshots:
 
 <img src="assets/scr1.PNG" height="400">                            <img src="assets/scr2.PNG" height="400">
 
