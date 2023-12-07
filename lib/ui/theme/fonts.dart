@@ -1,10 +1,10 @@
 class FontAssets {
-  static String sfProTextBold = 'fonts/SF-Pro-Text-Bold';
-  static String sfProTextMedium = 'fonts/SF-Pro-Text-Medium';
-  static String sfProDisplayBold = 'fonts/SF-Pro-Display-Bold';
+  static String textBold = 'fonts/SF-Pro-Text-Bold';
+  static String textMedium = 'fonts/SF-Pro-Text-Medium';
+  static String displayBold = 'fonts/SF-Pro-Display-Bold';
 
-  static double mediumFontSize14 = 14.0;
-  static double bigFontSize16 = 16.0;
-  static double bigFontSize20 = 20.0;
-  static double largeFontSize24 = 24.0;
+  static double fontSize14 = 14.0;
+  static double fontSize16 = 16.0;
+  static double fontSize20 = 20.0;
+  static double fontSize24 = 24.0;
 }
